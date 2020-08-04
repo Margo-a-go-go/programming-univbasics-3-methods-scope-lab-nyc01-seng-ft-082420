@@ -10,4 +10,5 @@ end
 
 def link
   says = "It's Dangerous To Go Alone! Take This."
+  puts says
 end
